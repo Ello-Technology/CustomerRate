@@ -4,7 +4,7 @@ Survey.defaultBootstrapCss.navigationButton = "btn btn-green";
 
 Survey.JsonObject.metaData.addProperty("dropdown", {name: "renderAs", default: "standard", choices: ["standard", "imagepicker"]});
 
-window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellotheans, please take a moment to do this survey. Please select any client/clients you feel are problematic clients. You can list each clients potential issues and then recommend a solution.', showProgressBar: 'top', pages: [{
+window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellotheans, please take a moment to do this survey. Please select any client/clients you feel are problematic. You can list each clients potential issues and then recommend a solution.', showProgressBar: 'top', pages: [{
     questions: [
 
         {
