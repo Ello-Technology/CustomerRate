@@ -403,16 +403,6 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     ],
     title: "Marsh Green Risk Assurance (Pty) Ltd"
   },
-  {
-    type: "rating",
-    name: "Marsh Green Risk Assurance (Pty) Ltd",
-    rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
-    ],
-    title: "Marsh Green Risk Assurance (Pty) Ltd"
-  },
 
   {
     type: "rating",
