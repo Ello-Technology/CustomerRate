@@ -810,7 +810,7 @@ survey.onComplete.add (function (result) {
 
     const preObject = document.getElementById('object');
 
-    const dbRefObject = firebase.database().ref().child('object');
+    const dbRefObject = firebase.database().ref().child('object/id');
 
     dbRefObject.push().set(result.data);
 
