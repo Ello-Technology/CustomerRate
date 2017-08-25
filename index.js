@@ -20,9 +20,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Agrimotion Consulting Pty (Ltd)",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂'
     ],
     title: "Agrimotion Consulting Pty (Ltd)"
   },
@@ -30,19 +30,19 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "AHT Africa",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
-    ],
+      '👍',
+      '👎',
+      '🤷‍♂'
+        ],
     title: "AHT Africa"
   },
   {
     type: "rating",
     name: "Aqua Vista Guest House",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂'
     ],
     title: "Aqua Vista Guest House"
   },
@@ -50,19 +50,19 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Asara Wine Estate & Hotel (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
-    ],
+      '👍',
+      '👎',
+      '🤷‍♂'
+      ],
     title: "Asara Wine Estate & Hotel (Pty) Ltd"
   },
   {
     type: "rating",
     name: "Beyerskloof Wines (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂'
     ],
     title: "Beyerskloof Wines (Pty) Ltd"
   },
@@ -71,9 +71,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Capital Harvest IT & Admin (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂'
     ],
     title: "Capital Harvest IT & Admin (Pty) Ltd"
   },
@@ -81,39 +81,38 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Cavalli Wine and Stud (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
-    ],
+      '👍',
+      '👎',
+      '🤷‍♂'
+          ],
     title: "Cavalli Wine and Stud (Pty) Ltd"
   },
   {
     type: "rating",
     name: "Crowe Horwarth RMA (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
-    ],
+     '👍',
+      '👎',
+      '🤷‍♂'
+          ],
     title: "Crowe Horwarth RMA (Pty) Ltd"
   },
   {
     type: "rating",
     name: "CSM Consulting Services (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
-    ],
+      '👍',
+      '👎',
+      '🤷‍♂'    ],
     title: "CSM Consulting Services (Pty) Ltd"
   },
   {
     type: "rating",
     name: "De Zalze Golf Club",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂'
     ],
     title: "De Zalze Golf Club"
   },
@@ -121,9 +120,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "De Zalze Lodge (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂'
     ],
     title: "De Zalze Lodge (Pty) Ltd"
   },
@@ -131,9 +130,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Devonvale Golf & Wine Estate",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂'
     ],
     title: "Devonvale Golf & Wine Estate"
   },
@@ -141,9 +140,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Dr Harold Bloch",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂'
     ],
     title: "Dr Harold Bloch"
   },
@@ -151,20 +150,20 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Dr MJ Abelson Inc",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
-    ],
+      '👍',
+      '👎',
+      '🤷‍♂'
+          ],
     title: "Dr MJ Abelson Inc"
   },
   {
     type: "rating",
     name: "Ello Technology SA (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
-    ],
+      '👍',
+      '👎',
+      '🤷‍♂'
+          ],
     title: "Ello Technology SA (Pty) Ltd"
   },
 
@@ -172,9 +171,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Emma Pardoe CA (SA)",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂'
     ],
     title: "Emma Pardoe CA (SA)"
   },
@@ -182,9 +181,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Extreme Fibre Africa",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂'
     ],
     title: "Extreme Fibre Africa"
   },
@@ -192,9 +191,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Fincon Management Services CC",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂'
     ],
     title: "Fincon Management Services CC"
   },
@@ -203,9 +202,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Grande Provence Properties (PTY) LtdC",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂'
     ],
     title: "Grande Provence Properties (PTY) Ltd"
   },
@@ -213,9 +212,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "GS Productions",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+       '👍',
+      '👎',
+      '🤷‍♂'
     ],
     title: "GS Productions"
   },
@@ -223,10 +222,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "GS Productions",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
-    ],
+      '👍',
+      '👎',
+      '🤷‍♂'    ],
     title: "GS Productions"
   },
 
@@ -234,10 +232,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Hazendal Wine Estate (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
-    ],
+      '👍',
+      '👎',
+      '🤷‍♂'     ],
     title: "Hazendal Wine Estate (Pty) Ltd"
   },
 
@@ -245,9 +242,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Helderberg Village Master Homeowners Assoc",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+     '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Helderberg Village Master Homeowners Assoc"
   },
@@ -256,9 +253,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Helderberg Yamaha",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+     '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Helderberg Yamaha"
   },
@@ -266,9 +263,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "HGG Operations",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "HGG Operations"
   },
@@ -276,9 +273,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "HH NG Kerk",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "HH NG Kerk"
   },
@@ -286,9 +283,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "HH NG Kerk",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "HH NG Kerk"
   },
@@ -296,9 +293,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "HKQS",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "HKQS"
   },
@@ -306,9 +303,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Imalivest (PTY) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+     '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Imalivest (PTY) Ltd"
   },
@@ -316,9 +313,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Imvusa Stainless (PTY) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Imvusa Stainless (PTY) Ltd"
   },
@@ -326,9 +323,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Jacana Guest Farm",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+     '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Jacana Guest Farm"
   },
@@ -336,9 +333,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Jade Properties",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Jade Properties"
   },
@@ -346,9 +343,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Kanonkop Wine Estate",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Kanonkop Wine Estate"
   },
@@ -356,9 +353,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "King David Mowbray Golf Club",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "King David Mowbray Golf Club"
   },
@@ -366,9 +363,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Land Rover Experience",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Land Rover Experience"
   },
@@ -377,9 +374,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Lanicento",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Lanicento"
   },
@@ -387,9 +384,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Le Franschhoek Hotel (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Le Franschhoek Hotel (Pty) Ltd"
   },
@@ -397,9 +394,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Marsh Green Risk Assurance (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Marsh Green Risk Assurance (Pty) Ltd"
   },
@@ -408,9 +405,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "MDOT Design Studio",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "MDOT Design Studio"
   },
@@ -418,9 +415,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Metro Clean Services CC",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Metro Clean Services CC"
   },
@@ -428,9 +425,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Mount Vernon - Gravel Junction Wine & Spirit",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Mount Vernon - Gravel Junction Wine & Spirit"
   },
@@ -438,9 +435,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "New Generation Church International",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "New Generation Church International"
   },
@@ -448,9 +445,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Otto Wireless Solutions",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Otto Wireless Solutions"
   },
@@ -458,9 +455,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Personal Touch Secretarial Services",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Personal Touch Secretarial Services"
   },
@@ -468,9 +465,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Privatactus Incorporated",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+     '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Privatactus Incorporated"
   },
@@ -478,9 +475,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Privatactus Incorporated",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Raymond McCreath Incorporated"
   },
@@ -488,9 +485,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Privatactus Incorporated",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Raymond McCreath Incorporated"
   },
@@ -498,9 +495,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "RDK Plant (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "RDK Plant (Pty) Ltd"
   },
@@ -508,9 +505,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "SA Inshore Fishing Industry Ass. T/A Feedcom",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "SA Inshore Fishing Industry Ass. T/A Feedcom"
   },
@@ -518,9 +515,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Sanctuary Family Trust",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+     '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Sanctuary Family Trust"
   },
@@ -528,9 +525,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Shibbolet Property Developments (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+     '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Shibbolet Property Developments (Pty) Ltd"
   },
@@ -538,9 +535,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "South African Disabled Golf Association",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "South African Disabled Golf Association"
   },
@@ -548,9 +545,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Southern Fruit Growers",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Southern Fruit Growers"
   },
@@ -558,9 +555,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Southern Fruit Growers",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Southern Fruit Growers"
   },
@@ -568,9 +565,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Sparkle Tombstones and Counters",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Sparkle Tombstones and Counters"
   },
@@ -578,9 +575,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Star Express CC",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Star Express CC"
   },
@@ -588,9 +585,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Stellcap (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+     '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Stellcap (Pty) Ltd"
   },
@@ -598,9 +595,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Stellenbosch Hills (Co-Op) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Stellenbosch Hills (Co-Op) Ltd"
   },
@@ -609,9 +606,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Steyl Panelbeaters",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Steyl Panelbeaters"
   },
@@ -620,9 +617,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Switch Consultants (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+     '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Switch Consultants (Pty) Ltd"
   },
@@ -631,9 +628,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Switch Consultants (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Theebo Tech Pty Ltd"
   },
@@ -641,9 +638,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Treasury Trust Services (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+     '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Treasury Trust Services (Pty) Ltd"
   },
@@ -651,9 +648,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Treoc Holding (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Treoc Holding (Pty) Ltd"
   },
@@ -662,9 +659,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "TUV Nord Southern Africa (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "TUV Nord Southern Africa (Pty) Ltd"
   },
@@ -672,9 +669,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Vecto Finance (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Vecto Finance (Pty) Ltd"
   },
@@ -682,9 +679,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Villiera Wines (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+     '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Villiera Wines (Pty) Ltd"
   },
@@ -692,9 +689,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Vizier Systems (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Vizier Systems (Pty) Ltd"
   },
@@ -702,9 +699,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Wiehahn Property Management (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Wiehahn Property Management (Pty) Ltd"
   },
@@ -712,9 +709,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Winelands Golf Lodges Club (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Winelands Golf Lodges Club (Pty) Ltd"
   },
@@ -722,9 +719,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Zimele Technologies",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+     '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Zimele Technologies"
   },
@@ -732,9 +729,9 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     type: "rating",
     name: "Zorgvliet Wines (Pty) Ltd",
     rateValues: [
-      "Terribad",
-      "SoSo",
-      "Amazing"
+      '👍',
+      '👎',
+      '🤷‍♂' 
     ],
     title: "Zorgvliet Wines (Pty) Ltd"
   },
@@ -810,7 +807,7 @@ survey.onComplete.add (function (result) {
 
     const preObject = document.getElementById('object');
 
-    const dbRefObject = firebase.database().ref().child('object/id');
+    const dbRefObject = firebase.database().ref().child('object');
 
     dbRefObject.push().set(result.data);
 
