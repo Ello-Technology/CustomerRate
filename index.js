@@ -218,15 +218,7 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     ],
     title: "GS Productions"
   },
-  {
-    type: "rating",
-    name: "GS Productions",
-    rateValues: [
-      '👍',
-      '👎',
-      '🤷‍♂'    ],
-    title: "GS Productions"
-  },
+
 
   {
     type: "rating",
@@ -279,16 +271,7 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     ],
     title: "HH NG Kerk"
   },
-  {
-    type: "rating",
-    name: "HH NG Kerk",
-    rateValues: [
-      '👍',
-      '👎',
-      '🤷‍♂' 
-    ],
-    title: "HH NG Kerk"
-  },
+ 
   {
     type: "rating",
     name: "HKQS",
@@ -481,17 +464,7 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     ],
     title: "Raymond McCreath Incorporated"
   },
-  {
-    type: "rating",
-    name: "Privatactus Incorporated",
-    rateValues: [
-      '👍',
-      '👎',
-      '🤷‍♂' 
-    ],
-    title: "Raymond McCreath Incorporated"
-  },
-  {
+    {
     type: "rating",
     name: "RDK Plant (Pty) Ltd",
     rateValues: [
@@ -551,16 +524,7 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
     ],
     title: "Southern Fruit Growers"
   },
-  {
-    type: "rating",
-    name: "Southern Fruit Growers",
-    rateValues: [
-      '👍',
-      '👎',
-      '🤷‍♂' 
-    ],
-    title: "Southern Fruit Growers"
-  },
+ 
   {
     type: "rating",
     name: "Sparkle Tombstones and Counters",
@@ -626,7 +590,7 @@ window.survey = new Survey.Model({ title: 'Ello Client Experience - Dear Ellothe
 
   {
     type: "rating",
-    name: "Switch Consultants (Pty) Ltd",
+    name: "Theebo Tech Pty Ltd",
     rateValues: [
       '👍',
       '👎',
